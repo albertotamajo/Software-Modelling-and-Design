@@ -1,2 +1,2 @@
 # Software-Modelling-and-Design
-:school: University of Southampton - Software Modelling and Design (COMP1216) - Courseworks - 2019/2020
+This repository contains both Specifications and Handins for the **COMP1216-Software Modelling and Design** courseworks
